@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A66CFF,100:00C2FF&height=220&section=header&text=Ilham%20Baihaqi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Future%20Network%20Engineer%20%7C%20Code%20%26%20Connections&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ilham%20Baihaqi&fontSize=52&fontColor=EEEEEE&animation=fadeIn&fontAlignY=38&desc=Future%20Network%20Engineer%20%7C%20Code%20%26%20Connections&descAlignY=58&descSize=17&descColor=B0BEC5" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6B6B,A66CFF,00C2FF,00E0A1&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Network+Engineer+in+the+making+%F0%9F%8C%90;Belajar+C%2B%2B%2C+Java%2C+HTML%2C+MySQL;Building+Stuff+%26+Breaking+Things+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4ECCA3,00ADB5,6C63FF&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Network+Engineer+in+the+making+%F0%9F%8C%90;Belajar+C%2B%2B%2C+Java%2C+HTML%2C+MySQL;Building+Stuff+%26+Breaking+Things+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IlhamBaihaqi24&label=Profile%20Views&color=A66CFF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Student-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dream%20Role-Network%20Engineer-00C2FF?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=IlhamBaihaqi24&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Student-37474F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dream%20Role-Network%20Engineer-0F4C5C?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Sekarang lagi asik-asiknya explore **C++, Java, HTML, sama MySQL**, tapi diam-di
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlhamBaihaqi24&theme=react-dark&hide_border=true&area=true&color=A66CFF&line=00C2FF&point=FF6B6B" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlhamBaihaqi24&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=4ECCA3&point=EEEEEE" width="100%" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Sekarang lagi asik-asiknya explore **C++, Java, HTML, sama MySQL**, tapi diam-di
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1500&color=00E0A1&center=true&vCenter=true&width=700&lines=%22The+network+is+the+backbone%3B+the+code+is+the+language+it+speaks.%22;%22It%27s+not+a+bug%2C+it%27s+an+undocumented+feature.%22;%22Ping+first%2C+panic+later.%22;%22Great+networks+are+built+one+packet+at+a+time.%22" alt="Rotating Quote" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1500&color=4ECCA3&center=true&vCenter=true&width=700&lines=%22The+network+is+the+backbone%3B+the+code+is+the+language+it+speaks.%22;%22It%27s+not+a+bug%2C+it%27s+an+undocumented+feature.%22;%22Ping+first%2C+panic+later.%22;%22Great+networks+are+built+one+packet+at+a+time.%22" alt="Rotating Quote" />
   </a>
 </p>
 
@@ -90,4 +90,4 @@ Sekarang lagi asik-asiknya explore **C++, Java, HTML, sama MySQL**, tapi diam-di
   <a href="https://instagram.com/USERNAME_IG_KAMU" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:A66CFF,100:FF6B6B&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
