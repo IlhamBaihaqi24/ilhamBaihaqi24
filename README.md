@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ilham%20Baihaqi&fontSize=52&fontColor=EEEEEE&animation=fadeIn&fontAlignY=38&desc=Future%20Network%20Engineer%20%7C%20Code%20%26%20Connections&descAlignY=58&descSize=17&descColor=B0BEC5" />
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4ECCA3,00ADB5,6C63FF&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Network+Engineer+in+the+making+%F0%9F%8C%90;Belajar+C%2B%2B%2C+Java%2C+HTML%2C+MySQL;Building+Stuff+%26+Breaking+Things+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
@@ -20,15 +18,7 @@
 
 ### 🌐 About Me
 
-Hai! Aku mahasiswa yang lagi sibuk gonta-ganti tab antara "belajar coding" dan "belajar jaringan" 😅  
-Sekarang lagi asik-asiknya explore **C++, Java, HTML, sama MySQL**, tapi diam-diam mimpiku itu jadi **Network Engineer** — yang ngerti gimana caranya data bisa jalan mulus dari satu ujung dunia ke ujung lainnya tanpa nyasar.
-
-- 🔌 Suka mikir kalau jaringan itu kayak jalan tol, dan aku lagi belajar jadi "insinyur jalan tolnya"
-- 💻 Selain itu juga coding, biar makin paham gimana software & network itu saling nyambung
-- 🌱 Masih proses belajar, jadi kalau ada yang salah, gaskeun kasih tau ya!
-- ☕ Ditemani kopi/teh dan tab StackOverflow yang gak pernah ditutup
-
----
+Hai! Aku mahasiswa yang lagi sibuk HAHAHAH
 
 ### 🧰 Tech Stack & Tools
 
@@ -72,7 +62,7 @@ Sekarang lagi asik-asiknya explore **C++, Java, HTML, sama MySQL**, tapi diam-di
 
 ---
 
-### 💬 Random Quote (ganti tiap buka halaman!)
+### 💬 Kata Kat Todayy
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -82,12 +72,12 @@ Sekarang lagi asik-asiknya explore **C++, Java, HTML, sama MySQL**, tapi diam-di
 
 ---
 
-### 📫 Let's Connect
+### 📫 Yuk Kenal Lebih Dekatt
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_KAMU" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL_KAMU@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/USERNAME_IG_KAMU" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ilham-baihaqi-a93a89383?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ilhambhq378@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ilhmmbhqq_?stkn=MWIyZ2o2aTQzdG9tMQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
