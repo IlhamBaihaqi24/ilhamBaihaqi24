@@ -63,7 +63,7 @@
 ### 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IlhamBaihaqi/IlhamBaihaqi/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://raw.githubusercontent.com/IlhamBaihaqi24/IlhamBaihaqi24/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 
 > ⚙️ Game ular ini otomatis "memakan" kotak kontribusi kamu. Cara aktifkannya ada di bagian bawah panduan setelah file ini.
