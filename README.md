@@ -32,15 +32,6 @@ Hai! Aku mahasiswa yang lagi sibuk HAHAHAH
   <img src="https://img.shields.io/badge/Wireshark-3670A0?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlhamBaihaqi24&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=4ECCA3&point=EEEEEE" width="100%" />
-</p>
-
----
 
 ### 🐍 Contribution Snake Game
 
