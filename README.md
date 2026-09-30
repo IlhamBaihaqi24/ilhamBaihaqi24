@@ -53,7 +53,7 @@ Hai! Aku mahasiswa yang lagi sibuk HAHAHAH
 
 ---
 
-### 💬 Kata Kat Todayy
+### 💬 Kata Kata Todayy
 
 <p align="center">
   <a href="https://git.io/typing-svg">
