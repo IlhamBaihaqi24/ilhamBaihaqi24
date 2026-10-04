@@ -58,7 +58,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 <h3 align="center">📝 Office Software</h3>
