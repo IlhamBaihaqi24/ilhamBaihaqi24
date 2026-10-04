@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  👋 Hai! Aku <b>Ilham</b> &nbsp;|&nbsp; 🎓 College Student &nbsp;|&nbsp; 💻 Suka ngoding &nbsp;|&nbsp; 🌱 Learning by doing!
+  👋 Hai! Aku <b>Ilham</b> &nbsp;|&nbsp; 🌱 Learning by doing!
 </p>
 
 ---
