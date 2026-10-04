@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Calon%20Network%20Engineer%20%7C%20Mahasiswa%20%7C%20Pembelajar&descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Calon%20Network%20Engineer%20%7C%20Mahasiswa%20%7C%20&descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td>
-      👋 Hai! Aku <b>Ilham Baihaqi</b>, mahasiswa yang lagi sibuk-sibuknya belajar (HAHAHAH).<br><br>
+      👋 Hai! Aku <b>Ilham Baihaqi</b>, mahasiswa yang lagi sibuk-sibuknya belajar HAHAHAH.<br><br>
       🎯 Cita-cita: jadi <b>Network Engineer</b><br>
       📚 Lagi belajar: <b>C++, Java, HTML/CSS, MySQL</b><br>
       🛠️ Suka ngoprek, nyoba, error, lalu benerin lagi<br>
