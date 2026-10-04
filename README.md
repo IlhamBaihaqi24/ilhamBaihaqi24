@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Calon%20Network%20Engineer%20%7C%20Mahasiswa%20%20&descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Calon%20Network%20Engineer%20%7C%20Mahasiswa%20%7C%20Pembelajar&descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,51 +16,76 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket-icon.gif" width="80" alt="rocket" />
 </p>
 
----
-
-### 🌐 Tentang Saya
-
-<table align="center">
-  <tr>
-    <td>
-      👋 Hai! Aku <b>Ilham Baihaqi</b>, mahasiswa yang lagi sibuk-sibuknya belajar HAHAHAH.<br><br>
-      🎯 Cita-cita: jadi <b>Network Engineer</b><br>
-      📚 Lagi belajar: <b>C++, Java, HTML/CSS, MySQL</b><br>
-      🛠️ Suka ngoprek, nyoba, error, lalu benerin lagi<br>
-      🌱 Prinsip: <i>learning by doing!</i>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  👋 Hai! Aku <b>Ilham</b> &nbsp;|&nbsp; 🎓 Mahasiswa &nbsp;|&nbsp; 🎯 Calon Network Engineer &nbsp;|&nbsp; 🌱 Learning by doing!
+</p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+<h3 align="center">👨‍💻 Bahasa & Skill</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,mysql,linux,git,github,vscode,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 </p>
+
+<h3 align="center">🌐 Networking Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-3670A0?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
+<h3 align="center">💻 Terminal & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" />
+</p>
+
+<h3 align="center">🖥️ OS yang Dipakai</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<h3 align="center">📝 Office Software</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge" />
+</p>
+
+<h3 align="center">🤖 AI yang Sering Dipakai</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
 ---
 
-### 🎯 Lagi Dipelajari
+<h3 align="center">🎯 Lagi Dipelajari</h3>
 
 ```text
 [■■■■■■■□□□] C++        70%
 [■■■■■□□□□□] Java       50%
 [■■■■■■■■□□] HTML/CSS   80%
 [■■■■■■□□□□] MySQL      60%
-[■■■□□□□□□□] Networking 30% (learning by doing!)
+[■■■□□□□□□□] Networking 30%
 ```
 
 ---
 
-### 📊 Statistik GitHub
+<h3 align="center">📊 Statistik GitHub</h3>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=IlhamBaihaqi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=4ECCA3&icon_color=00ADB5" alt="GitHub stats" />
@@ -71,9 +96,7 @@
   <img src="https://streak-stats.demolab.com?user=IlhamBaihaqi24&theme=tokyonight&hide_border=true&background=0F2027&ring=4ECCA3&fire=00ADB5&currStreakLabel=4ECCA3" alt="GitHub streak" />
 </p>
 
----
-
-### 🐍 Contribution Snake Game
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IlhamBaihaqi24/IlhamBaihaqi24/output/github-contribution-grid-snake.svg" alt="snake game" />
@@ -81,7 +104,7 @@
 
 ---
 
-### 💬 Kata Kata Hari Ini
+<h3 align="center">💬 Kata Kata Hari Ini</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -91,14 +114,12 @@
 
 ---
 
-### 📫 Yuk Kenalan Lebih Dekat
+<h3 align="center">📫 Hubungi Aku</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilham-baihaqi-a93a89383?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ilhambhq378@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/ilhmmbhqq_?stkn=MWIyZ2o2aTQzdG9tMQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>⭐ Makasih sudah mampir! Jangan lupa ping aku kalau mau diskusi soal jaringan atau coding. ⭐</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1976D2,100:0D47A1&height=100&section=footer" />
