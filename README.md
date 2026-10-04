@@ -80,29 +80,7 @@
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
----
 
-<h3 align="center">🎯 Lagi Dipelajari</h3>
-
-```text
-[■■■■■■■□□□] C++        70%
-[■■■■■□□□□□] Java       50%
-[■■■■■■■■□□] HTML/CSS   80%
-[■■■■■■□□□□] MySQL      60%
-```
-
----
-
-<h3 align="center">📊 Statistik GitHub</h3>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IlhamBaihaqi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=4ECCA3&icon_color=00ADB5" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamBaihaqi24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=4ECCA3" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IlhamBaihaqi24&theme=tokyonight&hide_border=true&background=0F2027&ring=4ECCA3&fire=00ADB5&currStreakLabel=4ECCA3" alt="GitHub streak" />
-</p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
