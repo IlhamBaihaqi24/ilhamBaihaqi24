@@ -1,15 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Calon%20Network%20Engineer%20%7C%20Mahasiswa%20%7C%20Pembelajar&descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=College%20Student%20%7C%20Coder%20%7C%20Pembelajar&descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4ECCA3,00ADB5,6C63FF&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Network+Engineer+in+the+making+%F0%9F%8C%90;Belajar+C%2B%2B%2C+Java%2C+HTML%2C+MySQL;Building+Stuff+%26+Breaking+Things+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4ECCA3,00ADB5,6C63FF&center=true&vCenter=true&multiline=true&width=650&height=70&lines=College+Student+%F0%9F%8E%93;Belajar+C%2B%2B%2C+Java%2C+HTML%2C+MySQL;Building+Stuff+%26+Breaking+Things+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://hits.sh/github.com/IlhamBaihaqi24.svg?style=for-the-badge&label=Profile%20Views&color=1976D2&labelColor=37474F" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Mahasiswa-37474F?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dream%20Role-Network%20Engineer-0F4C5C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-College%20Student-37474F?style=for-the-badge&logo=googleclassroom&logoColor=white" />
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 </p>
 
 <p align="center">
-  👋 Hai! Aku <b>Ilham</b> &nbsp;|&nbsp; 🎓 Mahasiswa &nbsp;|&nbsp; 🎯 Calon Network Engineer &nbsp;|&nbsp; 🌱 Learning by doing!
+  👋 Hai! Aku <b>Ilham</b> &nbsp;|&nbsp; 🎓 College Student &nbsp;|&nbsp; 💻 Suka ngoding &nbsp;|&nbsp; 🌱 Learning by doing!
 </p>
 
 ---
@@ -31,14 +30,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-</p>
-
-<h3 align="center">🌐 Networking Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 <h3 align="center">💻 Terminal & Tools</h3>
@@ -80,7 +71,6 @@
 [■■■■■□□□□□] Java       50%
 [■■■■■■■■□□] HTML/CSS   80%
 [■■■■■■□□□□] MySQL      60%
-[■■■□□□□□□□] Networking 30%
 ```
 
 ---
@@ -108,7 +98,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1500&color=4ECCA3&center=true&vCenter=true&width=800&lines=%22Jaringan+adalah+tulang+punggung%3B+kode+adalah+bahasa+yang+diucapkannya.%22;%22Bukan+bug%2C+tapi+fitur+yang+belum+terdokumentasi.%22;%22Ping+dulu%2C+panik+belakangan.%22;%22Jaringan+hebat+dibangun+satu+paket+data+demi+satu+paket+data.%22" alt="Kutipan berputar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1500&color=4ECCA3&center=true&vCenter=true&width=800&lines=%22Bukan+bug%2C+tapi+fitur+yang+belum+terdokumentasi.%22;%22Error+hari+ini%2C+skill+besok.%22;%22Belajar+satu+baris+kode+setiap+hari.%22;%22Semua+programmer+hebat+pernah+jadi+pemula.%22" alt="Kutipan berputar" />
   </a>
 </p>
 
