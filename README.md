@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=College%20Student%20&descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
