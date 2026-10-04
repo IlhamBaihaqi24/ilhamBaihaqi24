@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=4ECCA3&fontAlignY=38&desc=Calon%20Network%20Engineer%20%7C%20Mahasiswa%20%7C%20Pembelajar&descSize=18&descColor=ffffff&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:4FC3F7&height=200&section=header&text=Ilham%20Baihaqi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Calon%20Network%20Engineer%20%7C%20Mahasiswa%20%7C%20Pembelajar&descSize=18&descColor=E3F2FD&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IlhamBaihaqi24&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="profile views" />
+  <img src="https://hits.sh/github.com/IlhamBaihaqi24.svg?style=for-the-badge&label=Profile%20Views&color=1976D2&labelColor=37474F" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Mahasiswa-37474F?style=for-the-badge&logo=googleclassroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Dream%20Role-Network%20Engineer-0F4C5C?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
@@ -101,4 +101,4 @@
 
 <p align="center"><i>⭐ Makasih sudah mampir! Jangan lupa ping aku kalau mau diskusi soal jaringan atau coding. ⭐</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1976D2,100:0D47A1&height=100&section=footer" />
