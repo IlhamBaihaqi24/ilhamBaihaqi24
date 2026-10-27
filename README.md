@@ -90,14 +90,6 @@
 
 ---
 
-<h3 align="center">💬 Kata Kata Hari Ini</h3>
-
-<p align="center"> 
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1500&color=4ECCA3&center=true&vCenter=true&width=800&lines=Error+lagi%3F+Santai%2C+namanya+juga+belajar+%F0%9F%98%86;Ngoding+dulu%2C+rebahan+belakangan+%F0%9F%98%B4;Kode+bisa+jalan+itu+rezeki+%F0%9F%98%8E;Semangat%21+Deadline+masih+bisa+dikejar+%F0%9F%8F%83;Kopi+cukup%2C+tidur+cukup%2C+kode+belum+cukup+%E2%98%95" alt="Kutipan berputar" /> </a>
-</p>
-
----
-
 <h3 align="center">📫 Hubungi Aku</h3>
 
 <p align="center">
